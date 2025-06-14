@@ -20,3 +20,4 @@ Labubu - The Grinning Elf Guide is a comprehensive website dedicated to Labubu e
 ✅ Timely updates following market trends
 ✅ Beautiful and user-friendly interface, perfectly optimized for all devices
 ✅ Community-friendly platform for collector networking
+About: https://www.evernote.com/client/web#/notes/e1a0fa5b-3ea6-70cd-7798-d034ad3631d4
