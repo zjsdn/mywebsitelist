@@ -7,7 +7,7 @@ Discover the ultimate Random Number Generator Wheel! Spin our interactive free o
 Free online timer suite featuring stopwatch, countdown timer, world clock, timestamp converter, and playback speed calculator. High-precision timing tools for time management. 
 
 
-### https://grinningelf.com：
+### https://grinningelf.com
 Labubu - The Grinning Elf Guide is a comprehensive website dedicated to Labubu enthusiasts and collectors worldwide.
 🎯 Key Features:
 🏠 Complete Family Gallery - Detailed profiles of all The Monsters family members (Labubu, Zimomo, Mokoko, Tycoco, etc.)
